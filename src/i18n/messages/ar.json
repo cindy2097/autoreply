@@ -1,0 +1,90 @@
+{
+  "app": {
+    "name": "ReplyEase AI",
+    "slogan": "راحة في الرد · تعاطف ذكي"
+  },
+  "nav": {
+    "dashboard": "لوحة التحكم",
+    "reviews": "الردود",
+    "history": "السجل",
+    "settings": "الإعدادات",
+    "signOut": "تسجيل الخروج"
+  },
+  "auth": {
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "forgotPassword": "نسيت كلمة المرور؟",
+    "noAccount": "ليس لديك حساب؟",
+    "hasAccount": "لديك حساب بالفعل؟",
+    "signInTitle": "مرحبًا بعودتك",
+    "signInDesc": "سجل الدخول إلى حسابك للمتابعة",
+    "signUpTitle": "إنشاء حساب",
+    "signUpDesc": "ابدأ مع ReplyEase AI"
+  },
+  "reviews": {
+    "title": "الردود على التقييمات",
+    "pastePrompt": "ألصق تقييم المشتري هنا…",
+    "analyzing": "جاري تحليل مشاعر المشتري…",
+    "generating": "جاري إنشاء الردود…",
+    "emotion": "المشاعر",
+    "confidence": "نسبة الثقة",
+    "recommended": "موصى به",
+    "noReviews": "لا توجد تقييمات بعد. ألصق تقييمًا للبدء.",
+    "emotions": {
+      "angry": "غاضب",
+      "disappointed": "محبط",
+      "confused": "مرتبك",
+      "neutral": "محايد"
+    },
+    "tones": {
+      "empathetic": "لطيف",
+      "professional": "مهني",
+      "compensation": "تعويضي"
+    },
+    "actions": {
+      "copy": "نسخ",
+      "copied": "تم النسخ إلى الحافظة ✓",
+      "changeTone": "تغيير النبرة",
+      "regenerate": "إعادة الإنشاء",
+      "markDone": "وضع علامة تم الرد",
+      "correctEmotion": "تصحيح المشاعر"
+    },
+    "warnings": {
+      "lowConfidence": "الاكتشاف التلقائي غير مؤكد — يرجى التحقق يدويًا",
+      "contentFiltered": "تم اكتشاف محتوى حساس — يرجى المراجعة يدويًا"
+    }
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "todayStats": "إحصائيات اليوم",
+    "totalReviews": "تقييمات اليوم",
+    "pendingReviews": "قيد الانتظار",
+    "emotionDistribution": "توزيع المشاعر"
+  },
+  "history": {
+    "title": "السجل",
+    "search": "البحث في التقييمات…",
+    "noResults": "لم يتم العثور على تقييمات",
+    "last30Days": "آخر 30 يومًا"
+  },
+  "settings": {
+    "title": "الإعدادات",
+    "shops": "متاجري",
+    "addShop": "إضافة متجر",
+    "shopName": "اسم المتجر",
+    "platform": "المنصة",
+    "defaultLanguage": "اللغة الافتراضية",
+    "defaultTone": "النبرة الافتراضية",
+    "preferences": "التفضيلات"
+  },
+  "common": {
+    "loading": "جاري التحميل…",
+    "error": "حدث خطأ ما",
+    "retry": "إعادة المحاولة",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "delete": "حذف"
+  }
+}

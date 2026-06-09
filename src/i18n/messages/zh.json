@@ -1,0 +1,90 @@
+{
+  "app": {
+    "name": "ReplyEase AI",
+    "slogan": "轻松回评 · 智能共情"
+  },
+  "nav": {
+    "dashboard": "仪表盘",
+    "reviews": "差评处理",
+    "history": "历史记录",
+    "settings": "设置",
+    "signOut": "退出登录"
+  },
+  "auth": {
+    "signIn": "登录",
+    "signUp": "注册",
+    "email": "邮箱",
+    "password": "密码",
+    "forgotPassword": "忘记密码？",
+    "noAccount": "还没有账号？",
+    "hasAccount": "已有账号？",
+    "signInTitle": "欢迎回来",
+    "signInDesc": "登录您的账号以继续",
+    "signUpTitle": "创建账号",
+    "signUpDesc": "开始使用 ReplyEase AI"
+  },
+  "reviews": {
+    "title": "差评回复",
+    "pastePrompt": "在此粘贴买家差评…",
+    "analyzing": "正在分析买家情绪…",
+    "generating": "正在生成回复…",
+    "emotion": "情绪",
+    "confidence": "置信度",
+    "recommended": "推荐",
+    "noReviews": "暂无差评记录。粘贴一条差评开始使用。",
+    "emotions": {
+      "angry": "愤怒",
+      "disappointed": "失望",
+      "confused": "疑惑",
+      "neutral": "中性"
+    },
+    "tones": {
+      "empathetic": "温和",
+      "professional": "专业",
+      "compensation": "补偿型"
+    },
+    "actions": {
+      "copy": "复制",
+      "copied": "已复制到剪贴板 ✓",
+      "changeTone": "换个语气",
+      "regenerate": "重新生成",
+      "markDone": "标记已回复",
+      "correctEmotion": "修正情绪"
+    },
+    "warnings": {
+      "lowConfidence": "自动识别不确定，请手动选择",
+      "contentFiltered": "检测到敏感表述，请人工审核"
+    }
+  },
+  "dashboard": {
+    "title": "仪表盘",
+    "todayStats": "今日统计",
+    "totalReviews": "今日处理",
+    "pendingReviews": "待处理",
+    "emotionDistribution": "情绪分布"
+  },
+  "history": {
+    "title": "历史记录",
+    "search": "搜索差评…",
+    "noResults": "未找到相关记录",
+    "last30Days": "最近 30 天"
+  },
+  "settings": {
+    "title": "设置",
+    "shops": "我的店铺",
+    "addShop": "添加店铺",
+    "shopName": "店铺名称",
+    "platform": "平台",
+    "defaultLanguage": "默认语言",
+    "defaultTone": "默认语气",
+    "preferences": "偏好设置"
+  },
+  "common": {
+    "loading": "加载中…",
+    "error": "出了点问题",
+    "retry": "重试",
+    "save": "保存",
+    "cancel": "取消",
+    "delete": "删除"
+  }
+}

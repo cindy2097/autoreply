@@ -1,0 +1,90 @@
+{
+  "app": {
+    "name": "ReplyEase AI",
+    "slogan": "Smart Replies · Effortless Empathy"
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "reviews": "Reviews",
+    "history": "History",
+    "settings": "Settings",
+    "signOut": "Sign Out"
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signInTitle": "Welcome back",
+    "signInDesc": "Sign in to your account to continue",
+    "signUpTitle": "Create account",
+    "signUpDesc": "Get started with ReplyEase AI"
+  },
+  "reviews": {
+    "title": "Review Replies",
+    "pastePrompt": "Paste buyer's review here...",
+    "analyzing": "Analyzing buyer sentiment…",
+    "generating": "Generating replies…",
+    "emotion": "Sentiment",
+    "confidence": "Confidence",
+    "recommended": "Recommended",
+    "noReviews": "No reviews yet. Paste a review to get started.",
+    "emotions": {
+      "angry": "Angry",
+      "disappointed": "Disappointed",
+      "confused": "Confused",
+      "neutral": "Neutral"
+    },
+    "tones": {
+      "empathetic": "Empathetic",
+      "professional": "Professional",
+      "compensation": "Compensation"
+    },
+    "actions": {
+      "copy": "Copy",
+      "copied": "Copied to clipboard ✓",
+      "changeTone": "Change Tone",
+      "regenerate": "Regenerate",
+      "markDone": "Mark as replied",
+      "correctEmotion": "Correct sentiment"
+    },
+    "warnings": {
+      "lowConfidence": "Auto-detection uncertain — please verify manually",
+      "contentFiltered": "Sensitive content detected — please review manually"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "todayStats": "Today's Stats",
+    "totalReviews": "Reviews Today",
+    "pendingReviews": "Pending",
+    "emotionDistribution": "Sentiment Distribution"
+  },
+  "history": {
+    "title": "History",
+    "search": "Search reviews…",
+    "noResults": "No reviews found",
+    "last30Days": "Last 30 days"
+  },
+  "settings": {
+    "title": "Settings",
+    "shops": "My Shops",
+    "addShop": "Add Shop",
+    "shopName": "Shop Name",
+    "platform": "Platform",
+    "defaultLanguage": "Default Language",
+    "defaultTone": "Default Tone",
+    "preferences": "Preferences"
+  },
+  "common": {
+    "loading": "Loading…",
+    "error": "Something went wrong",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete"
+  }
+}
